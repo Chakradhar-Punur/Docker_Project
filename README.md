@@ -12,6 +12,3 @@
 In this, we are dockerizing an E-Commerce Database using MongoDB and also linking Next.js with Tailwind CSS
 The project consists of tech wear products where you can add them in the cart.
 
-# To view the video click on the following link
-
-## [Video] 
